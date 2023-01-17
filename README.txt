@@ -1,1 +1,1 @@
-Please refer to docs/index.html to get started.
+Code of operating tocabiRL robots using PPO & DeepMimic algorithm in isaacgym environment
